@@ -1,12 +1,11 @@
 # ICS 212
-## Homework - Week 9
+## Homework - Week 12
 
-# Arrays and Pointers
 
 ### Assignment:
-- Update the two C program files following the assignment description provided in HomeworkAssignment_Week9.pdf (uploaded on Laulima)
+- Update the C program file following the assignment description provided in HomeworkAssignment_Week12.pdf (uploaded on Laulima)
 
-**NOTE**: Github is not a place to test your code. Test it on your machines first. DO NOT exceed 10 commits. 
+**NOTE**: Github is not a place to test your code. Test it on your machines first. DO NOT exceed 5 commits. 
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
